@@ -1072,3 +1072,22 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+.quote-block {
+  display: inline-flexbox;
+  text-align: center;
+  font-size: 33px;
+  font-family: URW Chancery L, cursive;
+  color: #3c7aff;
+  padding: 10px;
+}
+.quote-block-author {
+  display: inline-flexbox;
+  text-align: center;
+  font-size: 13px;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  padding: 10px;
+}
